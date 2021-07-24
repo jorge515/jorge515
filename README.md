@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @jorge515
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-Hola soy Jorge Tevez Developer Python
+- 👀 Estoy intersado en desarrollo back-end Python
+- 🌱 Estoy profundianzo experiencia a modo personal en Desarrollo de API
+-
+como contactarme:
+MAIL:jtvz06@gmail.com
 
-<!---
-jorge515/jorge515 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
