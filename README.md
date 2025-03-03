@@ -1,5 +1,5 @@
 -Hola soy Jorge Tevez Developer Python
-- 👀 Estoy intersado en desarrollo back-end Python
+- 👀 Estoy intersado en desarrollo → Python | Diseño Web | Git-Hub
 - 🌱 Base de datos (Mysql, Postresql)
 -
 como contactarme:
